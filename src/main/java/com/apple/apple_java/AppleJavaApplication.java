@@ -8,7 +8,8 @@ public class AppleJavaApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(AppleJavaApplication.class, args);
-        System.out.println("hi");
     }
-
 }
+
+
+
